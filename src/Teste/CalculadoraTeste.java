@@ -21,7 +21,7 @@ public class CalculadoraTeste {
 
 	@Test
 	public void testDivisao() {
-		assertEquals(4, c.divisao(8, 2), 0);
+		assertEquals(7, c.divisao(8, 2), 0);
 	}
 	
 	@Test
